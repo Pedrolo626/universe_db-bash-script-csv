@@ -1,0 +1,7 @@
+galaxy_id,name,diameter_in_ly,distance_in_ly,type
+1,Milky Way,100.000,0,Barred Spiral
+2,LMC,14.000,158.000,Dward Irregular
+3,Andromeda,220.000,2500000.5,Spiral
+4,Cigar Galaxy,37.000,11500000.5,Starbust Irregular
+5,Pinwheel Galaxy,170.000,20870000.0,Spiral
+6,Hoags Object,100.00,600000000.0,Ring Galaxy

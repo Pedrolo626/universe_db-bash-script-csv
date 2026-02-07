@@ -1,0 +1,7 @@
+star_id,name,galaxy_id,type,notes
+1,Sun,1,G-Type Main Sequence Star,Star at the center of the Solar System
+2,Sirius,1,Main Sequence Star,Brightest Star in Earths night sky
+3,Betelgeuse,1,Red Supergiant,Variable star and possible future supernova
+4,R136a1,2,Wolf-Rayet/Hypergiant,One of the most massive stars ever discovered
+5,V1,3,Cepheid Variable,Often called the "most important star in cosmology"
+6,SN 2023ixf,5,Red Supergiant,Closest and brightest supernova seen in Earths skies in over a decade

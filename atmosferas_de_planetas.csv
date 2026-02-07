@@ -1,0 +1,8 @@
+planet_atmospheres_id,name,atmosphere_type,atmospheric_pressure_pa
+1,Earth,Nitrogen-Oxygen,101325
+2,Venus,Carbon Dioxide Dense,9200000
+3,Mars,Carbon Dioxide Thin,610
+4,Jupier,Hydrogen-helium,200000
+5,Saturn,Hydrogen-helium,100000
+6,Neptune,Hydrogen-helium,101325
+7,Uranus,Hydrogen-helium and methane,100000

@@ -1,0 +1,13 @@
+planet_id,name,star_id,planet_type,orbital_period_days,has_atmosphere
+1,Mercury,1,Terrestrial,88,false
+2,Venus,1,Terrestrial,225,true
+3,Earth,1,Terrestrial,365,true
+4,Mars,1,Terrestrial,687,true
+5,Jupiter,1,Gas Giant,4333,true
+6,Saturn,1,Gas Giant,10759,true
+7,Uranus,1,Ice Giant,30660,true
+8,Neptune,1,Ice Giant,60182,true
+9,Pluto,1,Dward Planet,90560,true
+10,Eris,1,Dwarf Planet,203830,false
+11,Haumea,1,Dwarf Planet,103774,false
+12,Makemake,1,Dwarf Planet,112897,false
